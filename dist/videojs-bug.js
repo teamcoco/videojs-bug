@@ -1,6 +1,6 @@
 /**
  * videojs-bug
- * @version 0.1.0
+ * @version 1.0.0-rc.1
  * @copyright 2017 johndanek <john.danek@teamcoco.com>
  * @license MIT
  */
@@ -166,7 +166,7 @@ var bug = function bug(options) {
 registerPlugin('bug', bug);
 
 // Include the version number.
-bug.VERSION = '0.1.0';
+bug.VERSION = '1.0.0-rc.1';
 
 exports.default = bug;
 },{}]},{},[1])(1)

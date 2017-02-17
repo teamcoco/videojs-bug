@@ -181,7 +181,7 @@ var bug = function bug(options) {
 registerPlugin('bug', bug);
 
 // Include the version number.
-bug.VERSION = '0.1.0';
+bug.VERSION = '1.0.0-rc.1';
 
 exports.default = bug;
 
