@@ -1,0 +1,7 @@
+/**
+ * videojs-bug
+ * @version 0.1.2
+ * @copyright 2017 johndanek <john.danek@teamcoco.com>
+ * @license MIT
+ */
+.video-js .vjs-bug{display:inline-block;position:absolute}.video-js .vjs-bug.no-link{pointer-events:none}.video-js .vjs-bug.vjs-bug-tl{top:0;left:0}.video-js .vjs-bug.vjs-bug-tr{top:0;right:0}.video-js .vjs-bug.vjs-bug-bl{bottom:0;left:0}.video-js .vjs-bug.vjs-bug-br{bottom:0;right:0}
