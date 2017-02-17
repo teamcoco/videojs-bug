@@ -1,6 +1,6 @@
 {
   "name": "videojs-bug",
-  "version": "0.1.0",
+  "version": "1.0.0-rc.1",
   "description": "Adds a logo bug to the videojs player with adjustable position, size, and opacity",
   "main": "es5/plugin.js",
   "generator-videojs-plugin": {
