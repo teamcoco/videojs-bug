@@ -1,6 +1,6 @@
 {
   "name": "videojs-bug",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.3",
   "description": "Adds a logo bug to the videojs player with adjustable position, size, and opacity",
   "main": "es5/plugin.js",
   "generator-videojs-plugin": {
@@ -43,10 +43,15 @@
     "videojs-plugin"
   ],
   "author": "johndanek <john.danek@teamcoco.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teamcoco/videojs-bug.git"
+  },
   "bugs": {
     "email": "dev-team@teamcoco.com",
-    "url": "https://github.com/teamcoco/videojs-bug"
+    "url": "https://github.com/teamcoco/videojs-bug/issues"
   },
+  "homepage": "https://github.com/teamcoco/videojs-bug",
   "license": "MIT",
   "browserify": {
     "transform": [
